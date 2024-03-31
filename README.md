@@ -1,6 +1,2 @@
-<h1>Learning Resources</h1>
-<h2></h2>Learn more about IBT, Implicit Bias, and Intersectionality</h2>
-<h3>Lisa Nakamura- <a href=https://muse.jhu.edu/article/563663l">Navajo Women and the Racialization of Early Electronic Manufacture</a>/h3>
-<h3>Thomas J. Misa- <a href=https://arxiv.org/ftp/arxiv/papers/2211/2211.09865.pdf">Gender Bias in Big Data Analysis</a></h3>
-<h3>Robin DiAngelo – <a href=https://www.penguinrandomhouse.com/books/566247/white-fragility-by-robin-diangelo/9780807047415/readers-guide/">Reading Guide on Discussing Whiteness</a></h3>
-<h3><a href=https://implicit.harvard.edu/implicit/takeatest.html">Harvard's Implicit Bias Test</a></h3>
+<h2>Tech Hero Highlight: Katherine Johnson</h2> 
+<p>Research mathematician <a href=" https://www.britannica.com/biography/Katherine-Johnson-mathematician ">Katherine Johnson</a> played a crucial role in the success of the <a href="https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-biography/">Apolo 11 mission</a> with her trajectory calculations necessary for the historic moon landing in 1969. Despite her groundbreaking efforts, Johnson's contributions remained largely unrecognized until the release of the book and movie "Hidden Figures" in 2016, which shed light on her remarkable story. At age 97 in 2015, Johnson was awarded the Presidential Medal of Freedom, the highest civilian honor in the United States. Johnson <a href=https://www.nytimes.com/2020/02/24/science/katherine-johnson-dead.html">passed away in 2020</a> at the age of 101, leaving an indelible mark on the history of space exploration and the advancement of women and minorities in STEM fields.</p>
